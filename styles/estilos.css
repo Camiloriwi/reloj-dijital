@@ -8,7 +8,7 @@
 }
 .reloj-container{
     /* background-color: rgb(2, 6, 34); */
-    background: url(/fondo.png),
+    background: url(../fondo.png),
     linear-gradient(to left, #01063549, #01176549,rgba(20, 0, 60, 0.221));
     /* background-size: contain; */
     /* background-repeat: no-repeat; */
@@ -34,9 +34,9 @@ h1{
   
 }
 body{
-    background: url(/fondo.png);
+    background: url(../fondo.png);
     -webkit-gradient:(linear, right top, left top,(from(#051dee), to(#0bf5da)));
-  background: url(/R.jpg),
+  background: url(../R.jpg),
   linear-gradient(to left, #051dee, #7c054b,  #ad0797);
    
 }
